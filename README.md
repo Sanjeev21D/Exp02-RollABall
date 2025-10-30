@@ -76,7 +76,7 @@ public class Code : MonoBehaviour
 
 # Output:
 
-https://github.com/maddy-madhavan/Exp02-RollABall/blob/main/Screenshot%202025-04-23%20215620.png
+<img width="1919" height="1056" alt="screenshot" src="https://github.com/user-attachments/assets/bb75d422-e8be-42d8-8281-3a4c1cc7b471" />
 
 # Result:
 Thus, a 3D application for RollABall objects in unity is developed successfully.
