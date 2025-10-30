@@ -76,6 +76,8 @@ public class Code : MonoBehaviour
 
 # Output:
 
-(<Screenshot 2025-04-23 215620.png>)
+[(<Screenshot 2025-04-23 215620.png>)](https://github.com/maddy-madhavan/Exp02-RollABall/blob/main/Screenshot%202025-04-23%20215620.png)
+
+
 # Result:
 Thus, a 3D application for RollABall objects in unity is developed successfully.
