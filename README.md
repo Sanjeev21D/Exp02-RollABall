@@ -76,6 +76,6 @@ public class Code : MonoBehaviour
 
 # Output:
 
-![alt text](<Screenshot 2025-04-23 215620.png>)
+(<Screenshot 2025-04-23 215620.png>)
 # Result:
 Thus, a 3D application for RollABall objects in unity is developed successfully.
